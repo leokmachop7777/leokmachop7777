@@ -15,7 +15,7 @@ Hi, I'm Leonardo Camacho!
 <pre>
 💻 I’m a passionate programming student at TecLab Institute
 📚 I’ve learned programming languages and technologies like JavaScript, HTML, CSS, and have knowledge in Fetch API
-📝 I’m eager to dive deeper into Data Science, Artificial Intelligence, and learn new languages like Python and PHP
+📝 I’m eager to dive deeper into Data Science & Artificial Intelligence
 🔭 Currently exploring Full Stack Development and Machine Learning
 🌱 Learning about Computer Vision and other Machine Learning technologies
 🌟 Main technologies: JavaScript, HTML, CSS
